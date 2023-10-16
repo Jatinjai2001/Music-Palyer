@@ -1,0 +1,4 @@
+Clint Server Articetuure
+
+Clint-----------> Server------------->
+User(Frontend ,)              
